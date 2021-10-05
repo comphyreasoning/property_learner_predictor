@@ -1,5 +1,5 @@
 # Physical Property Learner and Dynamic Predictor
- This repo contains the physical property learner and dynamic predictor of Compositional Physics Learner in [ComPhy](https://comphyreasoning.github.io).
+ This repo contains the physical property learner and dynamic predictor of the Compositional Physics Learner in [ComPhy](https://comphyreasoning.github.io).
 
 ### Data preparation
 - Download training and validation object tracks of [target videos](https://drive.google.com/file/d/1Qbkowx1Xph-70L5gDPVNn5Ba-lkpOaLg/view?usp=sharing) and [reference videos](https://drive.google.com/file/d/1e0oC7Bo41YZxj8lXTi4DlYdwy-9cNx8M/view?usp=sharing) extracted from Mask-RCNN;
